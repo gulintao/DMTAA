@@ -5,6 +5,7 @@
 * Automated testing with targeted event sequence generation, ISSTA 2013
 * Guided GUI Testing of Android Apps with Minimal Restart and Approximate learning, OOPSLA 2013 (tool: Swift-Hand)
 * EvoDroid: Segmented Evolutionary testing of android apps, FSE 2014
+* Automated Test Input Generation for Android: Are We There Yet? (KBSE 2015)
 * Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 
 
@@ -30,6 +31,7 @@
 
 #### Android Permission System
 
+* Android Permissions Demystiﬁed, CCS 2011
 * Pscout: Analysis the android permission specification, CCS 2012
 * Towards a framework for detecting privacy policy violations in android application code ICSE 2016
 * COVERT: Compositional analysis of android inter-app permission leakage, TSE 2015
@@ -40,4 +42,5 @@
 
 #### vulnerability
 
+* CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities, CCS 2012
 * VCCFinder: Finding potantial vulnerabilities in open-source projects to assist code audits, CCS 2015
