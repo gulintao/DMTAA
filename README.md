@@ -13,7 +13,7 @@
 * Automated concolic testing of smartphone apps, FSE 2012 (tool: ACTEve)
 * Targeted and depth-first exploration for systematic testing of android apps, OOPSLA 2013 (Tool: A3E)
 * VeriDroid: Automating android application verification, Middleware 2013 Doctoral Symposium
-
+* Graph-Aided Directed Testing of Android Applications for Checking Runtime Privacy Behaviours, AST 2016
 
 
 #### Mutation test for app
@@ -22,6 +22,7 @@
 
 #### Fuzzing test 
 
+* Intent Fuzzer: Crafting Intents of Death, ISSTA workshop, 2014
 * BinderCracker: Assessing the robustness of anrdoid system services, arXiv 2016
 
 
