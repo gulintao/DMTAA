@@ -24,7 +24,7 @@
 
 * Intent Fuzzer: Crafting Intents of Death, ISSTA workshop, 2014
 * BinderCracker: Assessing the robustness of anrdoid system services, arXiv 2016
-
+* Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016
 
 #### IAC Analysis
 
