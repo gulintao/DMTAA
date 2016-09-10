@@ -25,6 +25,7 @@
 * Intent Fuzzer: Crafting Intents of Death, ISSTA workshop, 2014
 * BinderCracker: Assessing the robustness of anrdoid system services, arXiv 2016
 * Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016
+* Caiipa: Automated Large-scale Mobile App Testing through Contextual Fuzzing, MobiCom 2014
 
 #### IAC Analysis
 
@@ -45,3 +46,11 @@
 
 * CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities, CCS 2012
 * VCCFinder: Finding potantial vulnerabilities in open-source projects to assist code audits, CCS 2015
+
+#### Bug localization
+
+* Fault Localization and Repair for Java Runtime Exceptions, ISSTA 2009
+* Where Should the Bugs Be Fixed? More Accurate Information Retrieval-Based Bug Localization Based on Bug Reports, ICSE 2012
+* Auto-Completing Bug Report for Android Application.
+* FUSION: A Tool for Facilitating and Augmenting Android Bug Reporting, ICSE companion 2016
+* Automatically Discovering, Reporting and reproducing Android Appplication Crashes, ICST 2016
